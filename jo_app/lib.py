@@ -1,2 +1,4 @@
 def try_me():
-    print("Hello there")
+    hi = "Hello there"
+    print(hi)
+    return hi
